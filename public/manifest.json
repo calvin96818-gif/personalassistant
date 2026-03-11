@@ -1,0 +1,16 @@
+{
+  "name": "Co-Thinking 助理",
+  "short_name": "Co-Thinking",
+  "description": "香港小學教師專屬共同思考助理",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#00a884",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

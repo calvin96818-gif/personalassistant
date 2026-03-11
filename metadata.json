@@ -1,0 +1,5 @@
+{
+  "name": "Co-Thinking Assistant",
+  "description": "A personal co-thinking assistant for a Hong Kong primary school teacher, with a WhatsApp-like interface.",
+  "requestFramePermissions": []
+}

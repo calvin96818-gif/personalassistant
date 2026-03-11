@@ -1,0 +1,7 @@
+.clip-tail-right {
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+}
+
+.clip-tail-left {
+  clip-path: polygon(0 0, 100% 0, 100% 100%);
+}
